@@ -1,0 +1,15 @@
+.job .company {
+  font-weight: bold;
+}
+
+.job .dates {
+  font-style: italic;
+}
+
+.job .title {
+  font-style: italic;
+}
+
+.job .description {
+  padding: 5px 0 15px 0;
+}
